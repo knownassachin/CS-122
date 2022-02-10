@@ -42,8 +42,16 @@ public class Hourly extends Employee {
 	public String toString() {
 		String result = super.toString();
 
-		result += "\nCurrent hours: " + hoursWorked;
+		result += "\nCurrent hours: " + hoursWorked + "\nVacation Days: " + this.vacationDays();
 
 		return result;
+	}
+	
+	public double vacationDays() {
+		if(pay()>500)
+			return 10;
+		else {
+			return 0;
+		}
 	}
 }
