@@ -1,0 +1,4 @@
+ 1. Modify the Firm example from this chapter such that it accomplishes its polymorphism using an interface called Payable.
+ 2. Modify the Firm example from this chapter such that all employees can be given different vacation options depending on their classification. Provide a method called vacation that returns the number of vacation days a person has. Give all employees a standard number of vacation days (14), then override the method in the various employee classes as appropriate. Modify the driver program to demonstrate this new functionality.  
+ 3.  Implement the Speaker interface described in Section 10.3, and create three classes that implement Speaker in various ways. Create a driver class whose main method instantiates some of these objects and tests their abilities.  
+ 4.  Rewrite the Sorting class so that both sorting algorithms put the values in descending order. Create a driver class with a main method to exercise the modifications.
