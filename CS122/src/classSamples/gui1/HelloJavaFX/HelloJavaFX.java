@@ -20,7 +20,7 @@ public class HelloJavaFX extends Application {
 		Text question = new Text(120, 80, "How's it going?");
 
 		Group root = new Group(hello, question);
-		Scene scene = new Scene(root, 300, 120, Color.LIGHTGREEN);
+		Scene scene = new Scene(root, 300, 120, Color.LIGHTBLUE);
 
 		primaryStage.setTitle("A JavaFX Program");
 		primaryStage.setScene(scene);
