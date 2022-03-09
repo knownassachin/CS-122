@@ -38,6 +38,6 @@ public class Employee extends StaffMember {
 	}
 	
 	public double vacationDays() {
-		return 28;
+		return 14;
 	}
 }
