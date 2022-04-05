@@ -1,4 +1,4 @@
-package classSamples.recursions.SolveTowers;//********************************************************************
+package classSamples.recursion.SolveTowers;//********************************************************************
 //  SolveTowers.java       Author: Lewis/Loftus
 //
 //  Demonstrates recursion.

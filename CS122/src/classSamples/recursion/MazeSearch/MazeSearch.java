@@ -1,4 +1,4 @@
-package classSamples.recursions.MazeSearch;//********************************************************************
+package classSamples.recursion.MazeSearch;//********************************************************************
 //  MazeSearch.java       Author: Lewis/Loftus
 //
 //  Demonstrates recursion.
