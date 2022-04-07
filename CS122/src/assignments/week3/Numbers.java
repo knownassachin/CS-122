@@ -1,5 +1,7 @@
 package assignments.week3;
 
+import java.util.Scanner;
+
 public class Numbers {
 	// Reads in an array of integers, sorts them,
     // then prints them in sorted order.
@@ -26,7 +28,7 @@ public class Numbers {
     }
 
 
-public static void main(String[] args)
+public static void main1(String[] args)
 
 {
 

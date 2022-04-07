@@ -37,4 +37,9 @@ public class Sorting {
             list[position] = key;
         }
     }
+
+	public static void selectionSort(int[] intList) {
+		// TODO Auto-generated method stub
+		
+	}
 }

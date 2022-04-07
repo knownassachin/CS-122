@@ -41,6 +41,7 @@ public class Rectangles extends Application {
 		primaryStage.setScene(scene);
 		primaryStage.show();
 	}
+	
 	public void processChangeColor(ActionEvent event) {
 		Random r = new Random();
 		Color newColor = colors[r.nextInt(4)];
